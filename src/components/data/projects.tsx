@@ -18,6 +18,7 @@ export const projects: Project[] = [
     ],
     status: "Live Project",
     link: "https://make-vision-board.vercel.app/",
+    image: "/vision-board-preview.png",
     highlight: "Full stack self-made project with authentication and API integration",
     bullets: [
       "Interactive drag-and-arrange vision board interface",
