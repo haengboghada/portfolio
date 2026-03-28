@@ -8,7 +8,7 @@ Designed to showcase real-world experience in **backend systems, enterprise plat
 
 ## 🌐 Live Demo
 
-👉 https://your-portfolio-link.com
+👉 https://portfolio-cheiselle-deloso.vercel.app/
 
 ---
 
