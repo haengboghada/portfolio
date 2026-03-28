@@ -2,6 +2,34 @@ import type { Project } from "../types";
 
 export const projects: Project[] = [
   {
+    title: "Make Vision Board",
+    category: "Full Stack • React • Laravel • MySQL",
+    description:
+      "Built a full stack vision board application for organizing goals, inspiration, and visual planning. Implemented a Laravel backend with secure authentication and API integration, connected to a modern React frontend for a seamless user experience.",
+    tech: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Laravel",
+      "Laravel Sanctum",
+      "MySQL",
+      "Vercel",
+      "Railway"
+    ],
+    status: "Live Project",
+    link: "https://make-vision-board.vercel.app/",
+    highlight: "Full stack self-made project with authentication and API integration",
+    bullets: [
+      "Interactive drag-and-arrange vision board interface",
+      "Built RESTful API using Laravel and Laravel Sanctum",
+      "Secure authentication and session handling",
+      "MySQL database design and backend data management",
+      "Frontend and backend integration using API endpoints",
+      "Deployed frontend on Vercel and backend on Railway",
+    ],
+    backend: "https://vision-board-api.up.railway.app/docs"
+  },
+  {
     title: "Nice Bites – Food Ordering Platform",
     category: "Full Stack • Node.js • React • PostgreSQL",
     description:
