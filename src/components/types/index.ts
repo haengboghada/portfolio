@@ -10,6 +10,7 @@ export type Project = {
   link?: string;
   image?: string;
   bullets?: string[];
+  backend?: string;
 };
 
 export type Experience = {
