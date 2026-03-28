@@ -27,7 +27,9 @@ export default function HeroSection() {
         </h1>
 
         <p className="mt-6 max-w-2xl text-base leading-8 text-white/70 md:text-lg">
-          Dynamic Software Developer with 8 years of experience specializing in backend architecture and scalable web systems. Expert in modernizing legacy environments, implementing real-time WebSocket services, and leading security initiatives through VAPT.
+          Backend-focused software developer with 8+ years of experience building APIs,
+          enterprise platforms, government systems, and real-time web applications using
+          PHP, Laravel, CodeIgniter, Node.js, Fastify, MySQL, PostgreSQL, and modern frontend tools.
         </p>
 
         <motion.div

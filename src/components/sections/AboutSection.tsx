@@ -17,7 +17,10 @@ export default function AboutSection() {
         title="A developer who enjoys turning ideas into working systems."
       />
       <p className="mt-4 max-w-4xl text-base leading-8 text-white/70 md:text-lg">
-        My focus is building secure, scalable, and efficient applications. I enjoy designing APIs, connecting databases, and delivering solutions that are practical, clean, and easy to maintain.
+        I build secure, scalable, and maintainable web applications with a strong focus
+        on backend architecture, API development, database design, and system integration.
+        My work includes enterprise platforms, customs-related government systems,
+        real-time betting backends, and self-made product projects.
       </p>
     </motion.section>
   );
